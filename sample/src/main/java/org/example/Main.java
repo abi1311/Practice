@@ -5,7 +5,13 @@ public class Main {
 
         int a=100;
 int c =300;
+
+
+        int b =200;
+
         System.out.println(a);
+        System.out.println(b);
         System.out.println(c);
+
     }
 }
