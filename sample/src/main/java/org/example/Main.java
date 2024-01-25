@@ -5,6 +5,7 @@ public class Main {
 
         int a=100;
         int b =200;
+        int d=400;
 
         System.out.println(a);
         System.out.println(b);
