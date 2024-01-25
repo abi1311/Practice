@@ -8,6 +8,7 @@ int c =300;
 
 
         int b =200;
+        int d=400;
 
         System.out.println(a);
         System.out.println(b);
